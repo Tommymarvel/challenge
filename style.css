@@ -1,6 +1,19 @@
-#main{
+.heading{
     text-align: center;
 }
-.head{
+#second{
+    text-align: center;
+    text-decoration: underline;
+}
+.inner{
+    margin: 0 auto;
+    text-align: center;
     background: grey;
+}
+
+.gg{
+    text-align: left;
+    height: 1cm;
+    text-decoration: aliceblue;
+    background-color: crimson;
 }
